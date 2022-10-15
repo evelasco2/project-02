@@ -19,6 +19,7 @@
   background: #fc0303;
 }
 
+}
 #resume-main {
   margin-left: 225px;
   background-color: #03b1fc;
@@ -30,6 +31,28 @@
 
 .resume-portion {
 
+}
+
+.main {
+  float: left;
+  width: 60%;
+  margin: 0 5%;
+}
+
+.extras {
+  float: left;
+  width: 25%;
+  margin: 0 5% 0 0;
+}
+
+.footer {
+  clear: left;
+}
+
+.one-col {
+  float: left;
+  width: 85%;
+  margin: 0 5% 0 0;
 }
 
 .page2 {
