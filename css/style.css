@@ -4,8 +4,8 @@
   background: lightblue;
 }
 
-.resume-right {
-  width: 750px;
+.wrapper {
+  width: 1000px;
   position: absolute;
   margin-left: auto;
   margin-right: auto;
@@ -17,13 +17,13 @@
   position: absolute;
   top: 0px;
   left: 0px;
-  width: 200px;
+  width: 400px;
   background: #fc0303;
 }
 
 }
 #resume-main {
-  margin-left: 225px;
+  margin-left: 600px;
   background-color: #03b1fc;
 }
 
@@ -59,6 +59,7 @@
 
 .footer {
   clear: left;
+  padding: 5px;
 }
 
 .one-col {
