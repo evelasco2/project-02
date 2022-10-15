@@ -38,12 +38,14 @@
   float: left;
   width: 60%;
   margin: 0 5%;
+  white-space: nowrap;
 }
 
 .extras {
   float: left;
   width: 25%;
   margin: 0 5% 0 0;
+  white-space: nowrap;
 }
 
 .footer {
