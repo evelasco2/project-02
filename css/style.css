@@ -14,7 +14,6 @@
   float: left;
   width: 40%;
   margin: auto auto;
-  background-color: white ;
   text-align: center;
 }
 
@@ -37,19 +36,16 @@
 
 .one-col p {
   text-align: center;
-  background-color: white;
 }
 
 .one-col h1, h2 {
   text-align: center;
-  background-color: white;
 }
 
 .page-2 {
   width: 1000 px;
   height: auto;
   margin: auto auto;
-  background: #035efc;
 }
 
 img, iframe {
@@ -63,7 +59,7 @@ img, iframe {
 .intro-2 {
   width: 80%;
   float: left;
-  margin: 0 auto; /* changed this */
+  margin: 0 auto;
   align-content: center;
 }
 
@@ -76,14 +72,14 @@ img, iframe {
 }
 
 .page-1 h1 {
-  color: salmon;
+  color: lightsalmon;
   font-family: 'Mirza', cursive, arial;
   font-size: 6em;
   margin-bottom: -60px;
 }
 
 .page-1 h3 {
-  color: salmon;
+  color: lightsalmon;
   font-size: 2.3em;
 }
 .wrapper {
@@ -95,7 +91,7 @@ img, iframe {
 .wrapper h2 {
   font-size: 2.5em;
   font-family: 'Arima Madurai', cursive, arial;
-  font-color: salmon; /* changed this from navy to salmon*/
+  font-color: lightsalmon;
 }
 
 .resume-left-1 {
@@ -103,7 +99,7 @@ img, iframe {
   width: 500px;
   height: 300px;
   margin: 10px auto;
-  background-color: salmon;
+  background-color: lightsalmon;
   padding: 20px 20px;
   color: navy;
 }
@@ -114,6 +110,7 @@ img, iframe {
   font-size: 4em;
   margin-top: 5px;
   margin-bottom: 40px;
+  background-color: lightsalmon;
 }
 
 .resume-left-1 ul {
@@ -125,6 +122,7 @@ img, iframe {
   line-height: 2.5em;
   font-size: 1.4em;
   color: white;
+  background-color: lightsalmon;
 }
 
 .resume-left-2 {
@@ -132,7 +130,7 @@ img, iframe {
   width: 500px;
   height: 410px;
   margin: 10px auto;
-  background-color: salmon;
+  background-color: lightsalmon;
   padding: 20px 20px;
 }
 
@@ -145,14 +143,16 @@ img, iframe {
   margin: -7% auto;
   color: white;
   font-size: 1.4em;
+  background-color: lightsalmon;
 }
 
 .resume-left-2 h2 {
-  color: salmon; /*changed this */
+  color: white;
   font-family: 'Mirza', cursive, arial;
   font-size: 4em;
   margin-top: 5px;
   margin-bottom: 40px;
+  background-color: lightsalmon;
 }
 
 .resume-right {
@@ -161,7 +161,7 @@ img, iframe {
   width: 500px;
   margin: 10px 10px;
   height: 300px;
-  background-color: salmon;
+  background-color: lightsalmon;
   padding: 20px 20px;
   color: white;
 }
@@ -175,6 +175,7 @@ img, iframe {
   line-height: 2em;
   font-size: 1.4em;
   color: white;
+  background-color: lightsalmon;
 }
 
 .resume-right p {
@@ -186,6 +187,7 @@ img, iframe {
   line-height: 2.5em;
   font-size: 1.4em;
   color: white;
+  background-color: lightsalmon;
 }
 
 .resume-right h2 {
@@ -194,6 +196,7 @@ img, iframe {
   font-size: 4em;
   margin-top: 5px;
   margin-bottom: 40px;
+  background-color: lightsalmon;
 }
 
 .resume-right-2 {
@@ -202,7 +205,7 @@ img, iframe {
   width: 500px;
   height: 410px;
   margin: 10px 10px;
-  background-color: salmon;
+  background-color: lightsalmon;
   padding: 20px 20px;
 }
 
@@ -212,6 +215,7 @@ img, iframe {
   font-size: 4em;
   margin-top: 5px;
   margin-bottom: 40px;
+  background-color: lightsalmon;
 }
 
 .resume-right-2 ul {
@@ -223,6 +227,7 @@ img, iframe {
   margin: -6% auto;
   color: white;
   font-size: 1.4em;
+  background-color: lightsalmon;
 }
 
 .wrapper-footer {
