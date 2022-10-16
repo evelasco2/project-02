@@ -26,6 +26,7 @@
 
 .footer {
   clear: left;
+  text-overflow: ;
 }
 
 .one-col {
@@ -91,7 +92,7 @@ img, iframe {
 .wrapper h2 {
   font-size: 2.5em;
   font-family: 'Arima Madurai', cursive, arial;
-  font-color: lightsalmon;
+  color: lightsalmon;
 }
 
 .resume-left-1 {
@@ -110,7 +111,7 @@ img, iframe {
   font-size: 4em;
   margin-top: 5px;
   margin-bottom: 40px;
-  background-color: lightsalmon;
+  background-color: transparent;
 }
 
 .resume-left-1 ul {
@@ -122,7 +123,7 @@ img, iframe {
   line-height: 2.5em;
   font-size: 1.4em;
   color: white;
-  background-color: lightsalmon;
+  background-color: transparent;
 }
 
 .resume-left-2 {
@@ -143,7 +144,7 @@ img, iframe {
   margin: -7% auto;
   color: white;
   font-size: 1.4em;
-  background-color: lightsalmon;
+  background-color: transparent;
 }
 
 .resume-left-2 h2 {
@@ -152,7 +153,7 @@ img, iframe {
   font-size: 4em;
   margin-top: 5px;
   margin-bottom: 40px;
-  background-color: lightsalmon;
+  background-color: transparent;
 }
 
 .resume-right {
@@ -175,7 +176,7 @@ img, iframe {
   line-height: 2em;
   font-size: 1.4em;
   color: white;
-  background-color: lightsalmon;
+  background-color: transparent;
 }
 
 .resume-right p {
@@ -187,7 +188,7 @@ img, iframe {
   line-height: 2.5em;
   font-size: 1.4em;
   color: white;
-  background-color: lightsalmon;
+  background-color: transparent;
 }
 
 .resume-right h2 {
@@ -196,7 +197,7 @@ img, iframe {
   font-size: 4em;
   margin-top: 5px;
   margin-bottom: 40px;
-  background-color: lightsalmon;
+  background-color: transparent;
 }
 
 .resume-right-2 {
@@ -215,7 +216,7 @@ img, iframe {
   font-size: 4em;
   margin-top: 5px;
   margin-bottom: 40px;
-  background-color: lightsalmon;
+  background-color: transparent;
 }
 
 .resume-right-2 ul {
@@ -227,7 +228,6 @@ img, iframe {
   margin: -6% auto;
   color: white;
   font-size: 1.4em;
-  background-color: lightsalmon;
 }
 
 .wrapper-footer {
