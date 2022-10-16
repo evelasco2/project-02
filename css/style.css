@@ -42,10 +42,9 @@
 .main {
   float: left;
   width: 60%;
-  margin: 0 5% 0 0;
+  margin: auto;
   display: block;
   background-color: white ;
-  align-content: center;
 }
 
 .main p {
@@ -55,9 +54,7 @@
 .extras {
   float: left;
   width: 35%;
-  margin: 0 5% 0 0;
-  display: block;
-  align-content: center;
+  margin: auto;
 }
 
 .extras p {
