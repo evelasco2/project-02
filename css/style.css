@@ -6,8 +6,8 @@
 
 .wrapper {
   position: absolute;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 20px;
+  margin-right: 20px;
   border: 1px solid black;
   padding: 0px;
 }
@@ -16,18 +16,19 @@
   position: absolute;
   top: 0px;
   left: 0px;
-  width: 400px;
+  width: 440px;
   background: #fc0303;
 }
 
 }
 .resume-right {
-  margin-left: 425px;
+  margin-left: 460px;
   background-color: #03b1fc;
 }
 
 .wrapper-end {
-
+  padding: 5px;
+  margin: ;
 }
 
 .page-introduction {
