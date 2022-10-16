@@ -1,9 +1,3 @@
-.page-2 {
-  background-color: navy;
-  margin: 0;
-  padding: 0;
-}
-
 .page-3 {
   background-color: powderblue;
   margin: 0;
@@ -235,5 +229,132 @@ img, iframe {
 }
 
 /* page2 css */
+.page-2 {
+  background-color: navy;
+  margin: auto 20px;
+  padding-left: 30px;
+  width: 1350px;
+}
 
+.intro-text {
+  float: left;
+  margin-left: 90px;
+  margin-right: 85px;
+  width: 500px;
+  text-align: center;
+  color: lightsalmon;
+}
+
+.intro-text h1 {
+  font-size: 6em;
+  font-family: 'Mirza', cursive, arial;
+  margin-top: 15px;
+  margin-bottom: -5px;
+  margin-left: 20px;
+}
+
+.intro-text h2 {
+  font-family: 'Mirza', cursive, arial;
+  font-size: 2.5em;
+  margin-top: -26px;
+  margin-bottom: 55px;
+  margin-left: 20px;
+}
+
+.intro-2 {
+  width: 630px;
+  float: left;
+  margin-left: 20px;
+  margin-right: 20px;
+  text-align: right;
+  color: white;
+  background-color: lightsalmon;
+  font-family: 'Mirza', cursive, arial;
+  font-weight: bold;
+}
+
+.intro-2 p {
+  font-family: 'Mirza', cursive, arial;
+  font-size: 1.5em;
+  padding-bottom: 5px;
+  padding: 20px 20px 20px 20px;
+  margin: 0 0 0 0;
+  color: navy;
+}
+
+.footer {
+  clear: left;
+}
+
+.first-cont {
+  float: left;
+  background-color: lightsalmon;
+  width: 675px;
+  margin: -51px 20px;
+  text-align: center; 
+  color: white;
+}
+
+.first-cont h2 {
+  margin-top: 23px;
+  margin-bottom: -25px;
+  font-family: 'Mirza', cursive, arial;
+  font-size: 3em;
+  color: navy;
+}
+
+.first-cont p {
+  font-family: "Arial", Helvetica, sans-serif;
+  font-size: 1.2em;
+  line-height: 1.5em;
+  padding: 0px 10px;
+  margin: 20px;
+  margin-bottom: 40px;
+  font-weight: bold;
+}
+
+.second-cont {
+  float: left;
+  width: 60%;
+  height: auto;
+}
+
+.third-cont {
+  float: left;
+  width: 96.8%;
+  background-color: lightsalmon;
+  margin-top: 50px;
+  margin-left: 20px;
+  margin-right: -20px;
+  padding-right: -20px;
+  text-align: center;
+  color: white;
+}
+
+.third-cont h2 {
+  color: navy;
+  font-family: 'Mirza', cursive, arial;
+  font-size: 3em;
+}
+
+.third-cont p {
+  font-family: "Arial", Helvetica, sans-serif;
+  font-size: 1.3em;
+  line-height: 1.5em;
+  padding: 0px 10px;
+  margin-right: 40px;
+  margin-left: 40px;
+  margin-bottom: 30px;
+  margin-top: -45px;
+  font-weight: bold;
+}
+
+.ending {
+  margin-top: 30px;
+  width: 100%;
+  background-color: navy;
+  float: left;
+}
+
+/* page 3 css */
 
