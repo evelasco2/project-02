@@ -43,14 +43,6 @@
   margin: auto auto;
 }
 
-img, iframe {
-  display: block;
-  width: 60%;
-  margin: auto auto;
-  align-content: center;
-}
-
-
 .intro-2 {
   width: 80%;
   float: left;
