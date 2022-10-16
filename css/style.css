@@ -26,9 +26,11 @@
   background-color: #03b1fc;
 }
 
-.wrapper-end
+.wrapper-end {
 
-#page-introduction {
+}
+
+.page-introduction {
 
 }
 
@@ -45,7 +47,6 @@
   float: left;
   width: 60%;
   margin: auto;
-  display: block;
   background-color: white ;
 }
 
@@ -55,7 +56,7 @@
 
 .extras {
   float: left;
-  width: 35%;
+  width: 30%;
   margin: auto;
 }
 
@@ -73,7 +74,6 @@
   float: left;
   width: 90%;
   padding: 5px;
-  align-content: center;
 }
 
 .one-col p {
@@ -90,6 +90,9 @@
   text-align: center;
   background-color: white;
 }
+
+.one-col img {
+  margin: auto;
 }
 .page2 {
   width: 100%;
