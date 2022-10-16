@@ -1,7 +1,7 @@
 .page-1 {
   width: 100%;
   height: 100%;
-  background: red;
+  background-color: red;
 }
 
 .wrapper {
@@ -21,11 +21,12 @@
 }
 
 }
-#resume-main {
+.resume-right {
   margin-left: 425px;
   background-color: #03b1fc;
 }
 
+.wrapper-end
 
 #page-introduction {
 
