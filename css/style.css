@@ -40,9 +40,14 @@
 }
 
 
-.page-3 {
+.page-2 {
   width: 100%;
   background-color: navy;
+}
+
+.page-3 {
+  width: 100%;
+  background-color: powderblue;
 }
 .main {
   float: left;
