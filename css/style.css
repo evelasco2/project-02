@@ -1,7 +1,7 @@
 .page-1 {
   background-color: lightsteelblue;
   margin: 0;
-  /* padding: 0; */
+  padding: 0;
 }
 
 .wrapper { 
@@ -12,7 +12,7 @@
 .resume-left {
   float: left;
   width: 490px;
-  margin: 0 20px;
+  margin: 0 10px;
   text-align: center;
   background-color: lightsalmon;
 }
@@ -28,7 +28,7 @@
 .resume-right {
   float: left;
   width: 490px;
-  margin: 0 20px 0 0;
+  margin: 0 10px 0 0;
   text-align: center;
   background-color: lightsalmon;
 }
