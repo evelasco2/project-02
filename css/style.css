@@ -38,7 +38,8 @@
 .main {
   float: left;
   width: 60%;
-  margin: 0 5% auto;
+  margin: 0 5% 0 0;
+  display: block;
   background-color: white ;
   align-content: center;
 }
@@ -50,8 +51,8 @@
 .extras {
   float: left;
   width: 35%;
-  margin: 0 5% auto;
-  background-color: white;
+  margin: 0 5% 0 0;
+  display: block;
   align-content: center;
 }
 
@@ -70,13 +71,23 @@
   width: 90%;
   padding: 5px;
   align-content: center;
-  background-color: white
 }
 
 .one-col p {
   text-align: center;
+  background-color: white;
 }
 
+.one-col h1 {
+  text-align: center;
+  background-color: white;
+}
+
+.one-col h2 {
+  text-align: center;
+  background-color: white;
+}
+}
 .page2 {
 
 }
@@ -95,3 +106,6 @@ h1, h2 {
   align-content: center;
 }
 
+div {
+  align-content: center;
+}
