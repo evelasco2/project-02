@@ -6,30 +6,25 @@
 
 .wrapper {
   width: 1000px;
-  position: absolute;
-  margin-left: auto;
-  margin-right: auto;
-  border: 1px solid black;
-  padding: 0px;
 }
 
 .resume-left {
-  position: absolute;
-  top: 0px;
-  left: 0px;
+  float: left;
   width: 490px;
-  background: #fc0303;
+  margin: 0 20px;
 }
 
 }
 .resume-right {
-  margin-left: 500px;
+  float: left;
+  width: 490px;
+  margin: 0 20px 0 0;
+
   background-color: #03b1fc;
 }
 
-.wrapper-end {
-  padding: 5px;
-  margin: ;
+.wrapper-footer {
+  clear: left;
 }
 
 .page-introduction {
