@@ -95,8 +95,9 @@
 }
 
 .page-2 {
+  width: 1000 px;
   height: auto;
-  margin: 50 auto; /* 100 100 */
+  margin: auto auto;
   background: #035efc;
 }
 
@@ -117,7 +118,6 @@ img, iframe {
   float: left;
   margin: 20px 20px;
 }
-
 
 
 
