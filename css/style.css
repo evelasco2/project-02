@@ -233,14 +233,14 @@ img, iframe {
   background-color: navy;
   margin: auto 20px;
   padding-left: 30px;
-  width: 1350px;
+  width: 100%;
 }
 
 .intro-text {
   float: left;
   margin-left: 90px;
   margin-right: 85px;
-  width: 500px;
+  width: 34.7%;
   text-align: center;
   color: lightsalmon;
 }
@@ -289,7 +289,7 @@ img, iframe {
 .first-cont {
   float: left;
   background-color: lightsalmon;
-  width: 675px;
+  width: 46.84%;
   margin: -51px 20px;
   text-align: center; 
   color: white;
@@ -314,14 +314,14 @@ img, iframe {
 }
 
 .second-cont {
-  float: left;
-  width: 60%;
+  float: right;
+  width: 50.35%;
   height: auto;
 }
 
 .third-cont {
   float: left;
-  width: 96.8%;
+  width: 90.5%;
   background-color: lightsalmon;
   margin-top: 50px;
   margin-left: 20px;
@@ -351,10 +351,11 @@ img, iframe {
 
 .ending {
   margin-top: 30px;
-  width: 100%;
+  width: 95%;
   background-color: navy;
   float: left;
 }
+
 
 /* page 3 css */
 
