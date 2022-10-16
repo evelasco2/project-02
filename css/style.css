@@ -47,7 +47,8 @@
 .main {
   float: left;
   width: 60%;
-  margin: auto;
+  margin-right: auto;
+  margin-left: auto;
   background-color: white ;
 }
 
@@ -58,7 +59,8 @@
 .extras {
   float: left;
   width: 30%;
-  margin: auto;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 .extras p {
