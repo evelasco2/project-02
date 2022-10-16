@@ -63,7 +63,7 @@
 .main {
   float: left;
   width: 40%;
-  margin: 0 5%;
+  margin: auto auto;
   background-color: white ;
   text-align: center;
 }
@@ -71,7 +71,7 @@
 .extras {
   float: left;
   width: 40%;
-  margin: 0 5% 0 0;
+  margin: auto auto;
   text-align: center;
 }
 
@@ -81,8 +81,7 @@
 
 .one-col {
   float: left;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: auto auto;
   width: 90%;
 }
 
