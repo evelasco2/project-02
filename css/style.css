@@ -1,53 +1,3 @@
-.page-1 {
-  background-color: lightsteelblue;
-  margin: 0;
-  padding: 0;
-}
-
-.wrapper { 
-  width: 1100px;
-  margin: 0 auto;
-  text-align: center;
-}
-
-.resume-left {
-  float: left;
-  width: 520px;
-  margin: 0 auto; /*changed margin */
-  text-align: center;
-  background-color: lightsalmon;
-  padding: 20px 20px;
-}
-
-.resume-bull {
-  list-style-type: none;
-  padding-left: 0;
-  line-height: 2em;
-  text-align: center; /* added this */
-}
-
-.resume-right {
-  float: left;
-  width: 520px;
-  margin: 0 auto 0 0; /* changed margin */
-  background-color: lightsalmon;
-  text-align: center;
-  padding: 20px 20px;
-}
-
-.wrapper-footer {
-  clear: left;
-}
-
-.page-introduction {
-
-}
-
-.resume-portion {
-
-}
-
-
 .page-2 {
   background-color: navy;
   margin: 0;
@@ -121,5 +71,168 @@ img, iframe {
   align-content: center;
 }
 
+
+/* page 1/resume css */
+
+.page-1 {
+  background-color: navy;
+  font-family: 'Mirza', cursive;
+}
+
+.page-1 h1 {
+  color: salmon;
+  font-family: 'Mirza', cursive, arial;
+  font-size: 6em;
+  margin-bottom: -60px;
+}
+
+.page-1 h3 {
+  color: salmon;
+  font-size: 2.3em;
+}
+.wrapper {
+  width: 1100px;
+  margin: auto auto;
+  text-align: center;
+}
+
+.wrapper h2 {
+  font-size: 2.5em;
+  font-family: 'Arima Madurai', cursive, arial;
+  font-color: white;
+}
+
+.resume-left-1 {
+  float: left;
+  width: 500px;
+  height: 300px;
+  margin: 10px auto;
+  background-color: lightsalmon;
+  padding: 20px 20px;
+  color: navy;
+}
+
+.resume-left-1 h2 {
+  color: white;
+  font-family: 'Mirza', cursive, arial;
+  font-size: 4em;
+  margin-top: 5px;
+  margin-bottom: 40px;
+}
+
+.resume-left-1 ul {
+  width: 100%;
+  height: 100%;
+  margin: -7% auto;
+  list-style-type: none;
+  padding-left: 0;
+  line-height: 2.5em;
+  font-size: 1.4em;
+  color: white;
+}
+
+.resume-left-2 {
+  float: left;
+  width: 500px;
+  height: 410px;
+  margin: 10px auto;
+  background-color: lightsalmon;
+  padding: 20px 20px;
+}
+
+.resume-left-2 ul {
+  width: 100%;
+  height: 100%;
+  list-style-type: none;
+  padding-left: 0;
+  line-height: 2.5em;
+  margin: -7% auto;
+  color: white;
+  font-size: 1.4em;
+}
+
+.resume-left-2 h2 {
+  color: white;
+  font-family: 'Mirza', cursive, arial;
+  font-size: 4em;
+  margin-top: 5px;
+  margin-bottom: 40px;
+}
+
+.resume-right {
+  position: relative;
+  float: left;
+  width: 500px;
+  margin: 10px 10px;
+  height: 300px;
+  background-color: lightsalmon;
+  padding: 20px 20px;
+  color: white;
+}
+
+.resume-right ul {
+  width: 100%;
+  height: 100%;
+  margin: -8% auto;
+  list-style-type: none;
+  padding-left: 0;
+  line-height: 2em;
+  font-size: 1.4em;
+  color: white;
+}
+
+.resume-right p {
+  width: 100%;
+  height: 100%;
+  margin: -50% auto;
+  list-style-type: none;
+  padding-left: 0;
+  line-height: 2.5em;
+  font-size: 1.4em;
+  color: white;
+}
+
+.resume-right h2 {
+  color: white;
+  font-family: 'Mirza', cursive, arial;
+  font-size: 4em;
+  margin-top: 5px;
+  margin-bottom: 40px;
+}
+
+.resume-right-2 {
+  position: relative;
+  float: left;
+  width: 500px;
+  height: 410px;
+  margin: 10px 10px;
+  background-color: lightsalmon;
+  padding: 20px 20px;
+}
+
+.resume-right-2 h2 {
+  color: white;
+  font-family: 'Mirza', cursive, arial;
+  font-size: 4em;
+  margin-top: 5px;
+  margin-bottom: 40px;
+}
+
+.resume-right-2 ul {
+  width: 100%;
+  height: 100%;
+  list-style-type: none;
+  padding-left: 0;
+  line-height: 2.5em;
+  margin: -6% auto;
+  color: white;
+  font-size: 1.4em;
+}
+
+.wrapper-footer {
+  clear: left;
+}
+
+/* page2 css */
 
 
