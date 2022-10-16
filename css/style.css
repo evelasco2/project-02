@@ -52,10 +52,6 @@
   background: #035efc;
 }
 
-h1, h2 {
-  text-align: center;
-}
-
 img, iframe {
   display: block;
   width: 60%;
@@ -76,7 +72,7 @@ img, iframe {
 
 .page-1 {
   background-color: navy;
-  font-family: 'Mirza', cursive;
+  font-family: 'Mirza', cursive, arial;
 }
 
 .page-1 h1 {
@@ -99,7 +95,7 @@ img, iframe {
 .wrapper h2 {
   font-size: 2.5em;
   font-family: 'Arima Madurai', cursive, arial;
-  font-color: white;
+  font-color: salmon; /* changed this from navy to salmon*/
 }
 
 .resume-left-1 {
@@ -107,7 +103,7 @@ img, iframe {
   width: 500px;
   height: 300px;
   margin: 10px auto;
-  background-color: lightsalmon;
+  background-color: salmon;
   padding: 20px 20px;
   color: navy;
 }
@@ -136,7 +132,7 @@ img, iframe {
   width: 500px;
   height: 410px;
   margin: 10px auto;
-  background-color: lightsalmon;
+  background-color: salmon;
   padding: 20px 20px;
 }
 
@@ -152,7 +148,7 @@ img, iframe {
 }
 
 .resume-left-2 h2 {
-  color: white;
+  color: salmon; /*changed this */
   font-family: 'Mirza', cursive, arial;
   font-size: 4em;
   margin-top: 5px;
@@ -165,7 +161,7 @@ img, iframe {
   width: 500px;
   margin: 10px 10px;
   height: 300px;
-  background-color: lightsalmon;
+  background-color: salmon;
   padding: 20px 20px;
   color: white;
 }
@@ -206,7 +202,7 @@ img, iframe {
   width: 500px;
   height: 410px;
   margin: 10px 10px;
-  background-color: lightsalmon;
+  background-color: salmon;
   padding: 20px 20px;
 }
 
