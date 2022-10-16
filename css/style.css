@@ -1,5 +1,6 @@
-.page-1 {
+.page-1 body{
   background-color: lightsteelblue;
+  margin: 0;
 }
 
 .wrapper {
@@ -41,12 +42,14 @@
 }
 
 
-.page-2 {
+.page-2 body {
   background-color: navy;
+  margin: 0;
 }
 
-.page-3 {
+.page-3 body {
   background-color: powderblue;
+  margin: 0;
 }
 .main {
   float: left;
@@ -57,11 +60,6 @@
 
 .main p {
   text-align: center;
-}
-
-.main img {
-  align-content: center;
-  justify-content: center;
 }
 
 .extras {
@@ -102,17 +100,12 @@
   background-color: white;
 }
 
-.one-col img {
-  margin: auto;
-}
 .page2 {
   width: 100%;
   height: 100%;
   background: #035efc;
 }
 
-
-.page3 {
 
 }
 
@@ -122,9 +115,9 @@ h1, h2 {
 
 img, iframe {
   display: block;
-  width: 100%;
-  margin-left: auto;
-  margin-right: auto;
+  width: 60%;
+  margin: auto auto;
+  align-content: center;
 }
 
 div {
