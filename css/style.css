@@ -1,7 +1,7 @@
 .page-1 {
   background-color: lightsteelblue;
   margin: 0;
-  padding: 0;
+  /* padding: 0; */
 }
 
 .wrapper { 
@@ -21,7 +21,7 @@
   list-style-type: none;
   padding-left: 0;
   line-height: 2em;
-  /* display: inline-block; */
+  display: inline-block;
   text-align: center; /* added this */
 }
 
