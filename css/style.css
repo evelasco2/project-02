@@ -25,12 +25,14 @@
   text-align: center; /* added this */
 }
 
+
 .resume-right {
   float: left;
   width: 490px;
   margin: 0 20px 0 0;
   text-align: center;
   background-color: lightsalmon;
+
 }
 
 .wrapper-footer {
