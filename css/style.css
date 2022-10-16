@@ -2,6 +2,7 @@
   background-color: lightsteelblue;
   margin: 0;
   padding: 0;
+  width: 1000px;
 }
 
 .wrapper { 
@@ -12,7 +13,7 @@
 .resume-left {
   float: left;
   width: 490px;
-  margin: 0 20px;
+  margin: 0 10px;
   text-align: center;
   background-color: lightsalmon;
 }
@@ -27,7 +28,7 @@
 .resume-right {
   float: left;
   width: 490px;
-  margin: 0 20px 0 0;
+  margin: 0 10px 0 0;
   background-color: lightsalmon;
   text-align: center;
 }
@@ -48,13 +49,15 @@
 .page-2 {
   background-color: navy;
   margin: 0;
-  padding: o;
+  padding: 0;
+  width: 100%;
 }
 
 .page-3 {
   background-color: powderblue;
   margin: 0;
   padding: 0;
+  width: 100%;
 }
 
 .main {
@@ -115,7 +118,7 @@ img, iframe {
 .intro-2 {
   width: 80%;
   float: left;
-  margin: 20px 20px;
+  margin: auto auto;
   align-content: center;
 }
 
