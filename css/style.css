@@ -5,14 +5,14 @@
 }
 
 .wrapper { 
-  width: 1000px;
+  width: 1100px;
   margin: 0 auto;
 }
 
 .resume-left {
   float: left;
   width: 490px;
-  margin: 0 20px;
+  margin: 0 10px;
   text-align: center;
   background-color: lightsalmon;
 }
@@ -24,11 +24,11 @@
   text-align: center; /* added this */
 }
 
-
+}
 .resume-right {
   float: left;
   width: 490px;
-  margin: 0 20px 0 0;
+  margin: 0 10px 0 0;
   background-color: lightsalmon;
   text-align: center;
 }
