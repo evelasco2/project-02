@@ -5,7 +5,8 @@
 }
 
 .wrapper {
-  width: 1000px;
+  margin-left: 40px;
+  margin-right: 40px;
   align-content: center;
 }
 
