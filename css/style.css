@@ -52,11 +52,8 @@
 }
 .main {
   float: left;
-  width: 60%;
-  margin-right: auto;
-  margin-left: auto;
-  margin-top: auto;
-  margin-bottom: auto;
+  width: 45%;
+  margin: 0 5%;
   background-color: white ;
 }
 
@@ -64,13 +61,15 @@
   text-align: center;
 }
 
+.main img {
+  align-content: center;
+  justify-content: center;
+}
+
 .extras {
   float: left;
-  width: 30%;
-  margin-bottom: auto;
-  margin-top: auto;
-  margin-right: auto;
-  margin-left: auto;
+  width: 45%;
+  margin: 0 5% 0 0;
 }
 
 .extras p {
@@ -83,8 +82,9 @@
 }
 
 .one-col {
-  margin: auto;
   float: left;
+  margin-left: auto;
+  margin-right: auto;
   width: 90%;
   padding: 5px;
 }
