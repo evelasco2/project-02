@@ -4,6 +4,9 @@
   height: 20%;
   background-color: lightsalmon;
   position: fixed;
+  outline-style: solid;
+  outline-width: 5px;
+  outline-color: white;
 }
 
 .navbar {
@@ -28,7 +31,6 @@
   padding: 20px 20px 20px 20px;
   font-size: 2.5em;
   font-family: 'Mirza', cursive, arial;
-  outline-style: s;
 }
 
 .navbar li a:hover {
