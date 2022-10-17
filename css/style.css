@@ -336,18 +336,15 @@
 
 .page-3 {
   background-color: navy;
-  margin: 0;
-  padding: 0;
   width: 100%;
   margin: auto auto;
 }
 
 .first-col {
   float: left;
-  margin: auto auto;
+  margin: 5% 5% auto 5%;
   width: 90%;
   text-align: center;
-  margin: auto 5% auto 5%;
 }
 
 .first-col h1 {
@@ -486,11 +483,11 @@
 .bp-3 {
   float: left;
   height: 650px;
-  width: 34%;
+  width: 35%;
   margin: 2% 5% 3% 5%;
   background-color: lightsalmon;
   text-align: center;
-  padding: 2% 2% 4% 2%;
+  padding: 2% 2% 2% 2%;
   font-family: 'arial', helvetica, sans-serif;
 }
 .modified-ul {
